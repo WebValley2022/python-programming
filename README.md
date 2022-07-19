@@ -2,7 +2,7 @@
 
 🇬🇧 Welcome to [WebValley](https://webvalley.fbk.eu) Python Programming Class! The class is meant for absolute beginners and code practictioners who are willing to move their first steps into with the [Python](https://python.org) programming language.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fnotebooks.gesis.org%2Fbinder%2Fjupyter%2Fuser%2Fwebvalley2022-python-programming-ibm88mdc%2Flab/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/webValley2022/python-programming/HEAD)
 
 ## Table of Content
 
