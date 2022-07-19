@@ -1,6 +1,9 @@
 ![WebValley Logo](./wv_logo.jpg)
 
 🇬🇧 Welcome to [WebValley](https://webvalley.fbk.eu) Python Programming Class! The class is meant for absolute beginners and code practictioners who are willing to move their first steps into with the [Python](https://python.org) programming language.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/webValley2022/python-programming/HEAD)
+
 ## Table of Content
 
 - [About the workshop](#descr-eng)
