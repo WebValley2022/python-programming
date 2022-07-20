@@ -2,6 +2,14 @@
 
 🇬🇧 Welcome to [WebValley](https://webvalley.fbk.eu) Python Programming Class! The class is meant for absolute beginners and code practictioners who are willing to move their first steps into with the [Python](https://python.org) programming language.
 
+## Getting Started
+
+**Supporting Slides**: [Slides on SpeakerDeck](https://speakerdeck.com/leriomaggio/webvalley-2022-python-programming)
+
+To run your code, please consider using _Visual Studio Code_ (recommended) [download](https://code.visualstudio.com). 
+
+Alternatively, you could also fire up a session on [myBinder](https://mybinder.org) by clicking on the button below:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/webValley2022/python-programming/HEAD)
 
 ## Table of Content
